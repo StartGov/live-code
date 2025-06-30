@@ -39,6 +39,7 @@ A solução deve ser composta por:
 
 - 🚫 **Não pode utilizar funções nativas de manipulação de strings**, como:
   - `str_replace`, `substr`, `strlen`, `str_pad`, `preg_match`, `preg_replace`, etc.
+  - Você poderá utilizar uma única vez uma função nativa do PHP.
 - 🚫 O Input dos CPFs não pode ter máscara.
 - ✅ **Pode utilizar laços de repetição** como `for`, `foreach`, `while`, bem como estruturas condicionais (`if`, `switch`, etc.).
 - ✅ Pode utilizar arrays para armazenar e manipular os dados.
